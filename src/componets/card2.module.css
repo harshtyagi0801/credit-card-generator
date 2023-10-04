@@ -1,0 +1,150 @@
+.back{
+    box-sizing: border-box;
+    width: 32%;
+    height: 33vh; 
+    position: absolute;
+    filter: blur(0.5px);
+    bottom: 12%;
+    left: 16%;
+    background: linear-gradient(106.8deg, #FFFFFF 0%, #D9D9D9 103.94%);
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.black{
+    background-color: #000000;
+    width: 100%;
+    height: 7vh;
+    position: fixed;
+    top: 12%;
+}
+.cvc{
+    background-color: #ADB6BF;
+    width: 80%;
+    height: 5vh;
+    position: fixed;
+    top: 45%;
+    left: 10%;
+
+}
+.div1{
+    background-color: #AEB5BD;
+    width: 100px;
+    height: 5px;
+    position: fixed;
+    top: 65%;
+    left: 30%;
+    border-radius: 5px;
+}
+.div2{
+    background-color: #AEB5BD;
+    width: 20px;
+    height: 5px;
+    position: fixed;
+    top: 65%;
+    right: 42%;
+    border-radius: 5px;
+
+}
+.div3{
+    background-color: #AEB5BD;
+    width: 20px;
+    height: 5px;
+    position: fixed;
+    top: 65%;
+    right:35%;
+    border-radius: 5px;
+}
+.div4{
+    background-color: #AEB5BD;
+    width: 10px;
+    height: 5px;
+    position: fixed;
+    top: 65%;
+    right: 30%;
+    border-radius: 5px;
+}
+.div5{
+    background-color: #AEB5BD;
+    width: 25px;
+    height: 5px;
+    position: fixed;
+    top: 70%;
+    border-radius: 5px;
+    left: 33%;
+}
+.div6{
+    background-color: #AEB5BD;
+    width: 80px;
+    height: 5px;
+    position: fixed;
+    top: 70%;
+    border-radius: 5px;
+    left: 40%;
+}
+
+.div7{
+    background-color: #AEB5BD;
+    width: 50px;
+    height: 5px;
+    position: fixed;
+    top: 70%;
+    border-radius: 5px;
+    right:30%;
+}
+.div8{
+    background-color: #AEB5BD;
+    width: 7px;
+    height: 5px;
+    position: fixed;
+    top: 70%;
+    border-radius: 5px;
+    right:26%;
+}
+.div9{
+    background-color: #AEB5BD;
+    width: 100px;
+    height: 5px;
+    position: fixed;
+    top: 75%;
+    border-radius: 5px;
+    right:29%;
+}
+.div10{
+    background-color: #AEB5BD;
+    width: 20px;
+    height: 5px;
+    position: fixed;
+    top: 75%;
+    border-radius: 5px;
+    right:53%;
+}
+.div11{
+    background-color: #AEB5BD;
+    width: 20px;
+    height: 5px;
+    position: fixed;
+    top: 75%;
+    border-radius: 5px;
+    left:37%;
+}
+.div12{
+    background-color: #AEB5BD;
+    width: 10px;
+    height: 5px;
+    position: fixed;
+    top: 75%;
+    border-radius: 5px;
+    left:34%;
+}
+.p{
+    float: right;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 4px;
+    margin-right: 12px;
+    color: #FFFFFF;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
